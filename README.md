@@ -26,19 +26,19 @@ You will create an **E-commerce Product Management System** using TypeScript. Th
 ## Project-Planning
 
 API Research:
-- [x]Research and analyze the [Dummy JSON Products API](https://dummyjson.com/docs/products) .
-- [x]You will be implementing features that interact with this API.
-- [x]Utilize the async/await method
+- [x] Research and analyze the [Dummy JSON Products API](https://dummyjson.com/docs/products) .
+- [x] You will be implementing features that interact with this API.
+- [x] Utilize the async/await method
 
 Project Planning:
 - [x] Based on your API research, plan the structure of your project. You will need to create API requests, handle errors, and display product information.
-- [x]Before you begin coding, create a project plan and outline the steps you’ll take to implement the API interactions and display product data.
+- [x] Before you begin coding, create a project plan and outline the steps you’ll take to implement the API interactions and display product data.
     - [] Examine the "Products" API to see what info is 'stored' in its object(s)
     - [x] Create a class based on this info
     - [x] Need to create if statement to calculate different tax prices
         - [x] default: 4.75% (0.0475)
         - [x] grocer tax: 3% (0.03)
-- [x]Ensure you have thoroughly read through the requirements for the project below before you begin planning it.
+- [x] Ensure you have thoroughly read through the requirements for the project below before you begin planning it.
 
 ### The challenge
 
