@@ -1,4 +1,4 @@
-# Module 6; SBA E-Commerce System
+# Module 6: SBA E-Commerce System
 
 Building an e-commerce architect to demonstrate typescript logic and understanding
 
